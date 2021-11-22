@@ -82,7 +82,7 @@ In rural cities, there is a peak in business at the beginning of April
 There is stable high business between late Februrary to the end of April in urban cities.
 
 **Summary**
-Some recommendations regarding any disparities among the city types may be that 
+One recommendation regarding any disparities among the city types may be that there needs to be more incentive for rural city dwellers to use PyBer, standardize a tighter range for fare prices to bring more customers to ride in rural areas. Another could be to lower prices during peak months in suburban and rural cities since most individuals in rural and suburban areas already have means of transportation (often times cars), we would need to make it more convenient for them to use PyBer during those peak travel months (often in the coldest or wettest months of Feb, Mar, April). Lastly, in urban cities, we know the population is already inclined to use PyBer, we can maximize profits by increasing prices in urban cities.
 
 
 
