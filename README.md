@@ -51,7 +51,7 @@ The project allows us to have first hand experience at what it may be like being
 **Deliverable 3**
 A written report for the PyBer analysis (20 points)
 
-**Results**
+## Results
 
 _Bubble Chart_ showing PyBer Avg Fares vs Total Number of Rides per city with bubble size correlating to driver count per city
 
